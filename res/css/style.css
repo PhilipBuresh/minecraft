@@ -59,12 +59,12 @@ html, body{
     color:#fffab0;
 }
 #screen{
-	background-image: url(./res/img/background_img.png);
+	background-image: url(../img/background_img.png);
 	height: 100vh;
 	display:none;
 }
 #banSite{
-	background-image: url(./res/img/background_img.png);
+	background-image: url(../img/background_img.png);
 	height: 100vh;
 	display:none;
 }
@@ -491,7 +491,7 @@ html, body{
 
 /* MAIN MENU Page */
 #menuSite{
-	background-image: url(./res/img/world.png);
+	background-image: url(../img/world.png);
 	height: 100vh;
 	display:none;
 }
@@ -646,7 +646,7 @@ html, body{
 }
 /*STRONGHOLD*/
 #strongholdSite{
-	background-image: url(./res/img/off.png);
+	background-image: url(../img/off.png);
 	height: 100vh;
 	display:none;
 }
@@ -734,7 +734,7 @@ html, body{
 }
 /*THE END*/
 #endSite{
-	background-image: url(./res/img/end.png);
+	background-image: url(../img/end.png);
 	height: 100vh;
 	display:none;
 }
@@ -862,7 +862,7 @@ html, body{
 }
 /* VILLAGE PAGE */
 #villageSite{
-	background-image: url(./res/img/village.png);
+	background-image: url(../img/village.png);
 	height: 100vh;
 	display:none;
 }
@@ -994,7 +994,7 @@ html, body{
 }
 /* VILLAGE PAGE 2 */
 #villageSite2{
-	background-image: url(./res/img/village2.png);
+	background-image: url(../img/village2.png);
 	height: 100vh;
 	display:none;
 }
@@ -1054,7 +1054,7 @@ html, body{
 }
 /*KORAL SITE*/
 #koralSite{
-	background-image: url(./res/img/close.png);
+	background-image: url(../img/close.png);
 	height: 100vh;
 	display:none;
 }
@@ -1180,7 +1180,7 @@ html, body{
 }
 /*ENCHANT PAGE*/
 #enchantSite{
-	background-image: url(./res/img/enchant.png);
+	background-image: url(../img/enchant.png);
 	height: 100vh;
 	display:none;
 }
@@ -1251,7 +1251,7 @@ html, body{
 
 
 #houseSite{
-	background-image: url(./res/img/house.png);
+	background-image: url(../img/house.png);
 	height: 100vh;
 	display:none;
 }
@@ -1360,7 +1360,7 @@ html, body{
 }
 /* HOUSE PAGE 2 */
 #houseSite2{
-	background-image: url(./res/img/house.png);
+	background-image: url(../img/house.png);
 	height: 100vh;
 	display:none;
 }
@@ -1423,7 +1423,7 @@ html, body{
 
 /* KRAFTING PAGE */
 #kraftingSite{
-	background-image: url(./res/img/krafting_world.png);
+	background-image: url(../img/krafting_world.png);
 	height: 100vh;
 	display:none;
 }
@@ -1477,7 +1477,7 @@ html, body{
 }
 /* PORTAL PAGE */
 #portalSite{
-	background-image: url(./res/img/portal1.png);
+	background-image: url(../img/portal1.png);
 	height: 100vh;
 	display: none;
 }
@@ -1606,7 +1606,7 @@ html, body{
 }
 /*NETHER PAGE*/
 #netherPortalSite{
-	background-image: url(./res/img/portal_nether.png);
+	background-image: url(../img/portal_nether.png);
 	height: 100vh;
 	display:none;
 }
@@ -1672,7 +1672,7 @@ html, body{
 }
 /*BLAZE SITE*/
 #blazeSite{
-	background-image: url(./res/img/nether.png);
+	background-image: url(../img/nether.png);
 	height: 100vh;
 	display:none;
 }
@@ -1829,7 +1829,7 @@ html, body{
 /* CAVE PAGE */
 
 #caveSite{
-	background-image: url(./res/img/cave.png);
+	background-image: url(../img/cave.png);
 	height: 100vh;
 	display: none;
 }
