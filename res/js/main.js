@@ -372,7 +372,7 @@ let bod = 0;
 buildButton.onclick = () => {
     if(counterObs.innerHTML == 6){
         buildButton.style.display = "none";
-        portalSite.style.backgroundImage = "url('./res/img/portal2.png')";
+        portalSite.style.backgroundImage = "url('../res/img/portal2.png')";
         counterObs.innerHTML = 0;
         obs.style.display = "none";
         counterObs.style.display = "none";
@@ -385,7 +385,7 @@ buildButton.onclick = () => {
 flintButton.onclick = () => {
     if(counterFlint.innerHTML == 1){
         flintButton.style.display = "none";
-        portalSite.style.backgroundImage = "url('./res/img/portal3.png')";
+        portalSite.style.backgroundImage = "url('../res/img/portal3.png')";
         found.style.display = "none";
         enterPortalButton.style.visibility = "visible";
         flintsteel.style.display = "none";
@@ -428,7 +428,7 @@ salmonButton.onclick = () => {
         salmonButton.style.display = "none";
         text.style.visibility = "hidden";
         text2.style.display = "block";
-        koralSite.style.backgroundImage = "url('./res/img/open.png')";
+        koralSite.style.backgroundImage = "url('../res/img/open.png')";
         inButton.style.display = "block";
     }  
 }
@@ -444,7 +444,7 @@ backInEnchantButton.onclick = () =>{
 }
 let one = 0;
 useButton.onclick = () =>{
-    strongholdSite.style.backgroundImage = "url('./res/img/on.png')";
+    strongholdSite.style.backgroundImage = "url('../res/img/on.png')";
     useButton.style.display = "none";
     endButton.style.display = "block";
     enderOko -= minus12;
