@@ -1,2 +1,2 @@
 # minecraft
-(view)[]
+[view](https://philipburesh.github.io/minecraft/)
