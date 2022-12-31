@@ -151,7 +151,7 @@ let blazeIncrease = 1;
 let blazeIncrease2 = 2;
 
 let gunpowder = 0;
-let gunIncrease = 1000;
+let gunIncrease = 1;
 let gunIncrease2 = 2;
 
 let rotten = 0;
